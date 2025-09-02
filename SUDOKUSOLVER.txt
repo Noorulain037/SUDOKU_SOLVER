@@ -1,0 +1,3 @@
+cd Desktop
+conda activate sudoku_solver
+python sudoku_solver_gui.py
