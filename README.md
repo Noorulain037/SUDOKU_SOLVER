@@ -45,3 +45,13 @@ SUDOKUSOLVER.txt → Notes file
 
 Developed by Noorulain037
 GitHub: Noorulain037
+
+## 🖼️ Screenshots
+Here’s how the Sudoku Solver looks in action:
+
+### Game Window
+![Sudoku Solver GUI](screenshot1.PNG)
+
+### Solved Puzzle
+![Sudoku Solver Solved](screenshot2.PNG)
+
